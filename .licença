@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+* License " win01.serverhabbo.in ";
 
 # Build results
 [Dd]ebug/
